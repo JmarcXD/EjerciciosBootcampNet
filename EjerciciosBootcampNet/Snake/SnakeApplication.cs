@@ -7,7 +7,7 @@ namespace EjerciciosBootcampNet
         public void SnakeV2Application()
         {
 
-
+            //Comprueba
             TableSnake ts = new TableSnake();
 
             while (true)
